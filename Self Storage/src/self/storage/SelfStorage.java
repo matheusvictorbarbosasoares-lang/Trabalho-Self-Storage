@@ -57,7 +57,6 @@ public class SelfStorage {
 
                 case 2:
                     if (clientes.isEmpty()) {
-
                         System.out.println("Nenhum cliente cadastrado.");
                     } else {
                         for (Client c : clientes) {
